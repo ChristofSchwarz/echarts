@@ -1,3 +1,4 @@
+// paste here https://echarts.apache.org/examples/en/editor.html?c=lines3d-flights-gl&gl=1
 myChart.setOption({
     geo3D: {
         map: 'world',
